@@ -78,5 +78,4 @@ Fique ligado: [meudominio.com](https://wot.com)
 
 ---
 
-> **Nota:** Sempre em evolução, sempre pronto para o próximo desafio.  
-> Se quiser conversar sobre código, arquitetura ou até Matrix, estou dentro.  
+> **Sempre em evolução, sempre pronto para o próximo desafio.**  
