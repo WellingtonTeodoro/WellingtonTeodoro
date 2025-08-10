@@ -1,6 +1,6 @@
 # Wellington de Oliveira Teodoro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wellington-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wellingtonteodoro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wellington-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wellingtonoliveirateodoro)  
 [![Email](https://img.shields.io/badge/Email-teodorowellington@yahoo.com.br-red?style=flat-square&logo=gmail)](mailto:teodorowellington@yahoo.com.br)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Wellington-green?style=flat-square&logo=ghost)](https://meudominio.com)  
 
