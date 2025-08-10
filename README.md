@@ -67,7 +67,7 @@ Graduação em Análise e Desenvolvimento de Sistemas – Concluído em 06/2024
 ## 💡 Projetos & Portfólio
 
 Em breve no estilo **Matrix**, com visual futurista e interativo.  
-Fique ligado: [seudominio.com](https://wot.com)  
+Fique ligado: [meudominio.com](https://wot.com)  
 
 ---
 
