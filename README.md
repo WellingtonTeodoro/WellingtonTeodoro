@@ -68,14 +68,7 @@ Graduação em Análise e Desenvolvimento de Sistemas – Concluído em 06/2024
 
 Em breve no estilo **Matrix**, com visual futurista e interativo.  
 Fique ligado: [meudominio.com](https://wot.com)  
-
----
-
-## 📞 Contato
-
-📧 teodorowellington@yahoo.com.br  
-📞 (62) 99236-1009  
-
+ 
 ---
 
 > **Sempre em evolução, sempre pronto para o próximo desafio.**  
